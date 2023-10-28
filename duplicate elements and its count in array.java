@@ -36,7 +36,7 @@ public class duplicateelementandcount {
 
 }  
 
-INPUT:[1,2,3,4,5]
+INPUT:[1,2,3,1,2]
 
 OUTPUT:
 1-2
